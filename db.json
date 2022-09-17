@@ -1,0 +1,37 @@
+{
+  "users": [
+    {
+      "name": "eslamsamyelshemysss",
+      "pass": "123456789",
+      "mail": "eslam@eslam.eslam",
+      "id": 1
+    },
+    {
+      "name": "eslam",
+      "pass": "eslameslam",
+      "mail": "eslam@eslam.eslam",
+      "id": 2
+    },
+    {
+      "name": "eslamSamy",
+      "pass": "ssssssssssssssss",
+      "mail": "aaaaaaaa@sss.sss",
+      "id": 3
+    },
+    {
+      "name": "eslamEshemy",
+      "pass": "ssssssssssssssss",
+      "mail": "eslam@s.sss",
+      "id": 4
+    }
+  ],
+  "locations": [
+    {
+      "name": "aa",
+      "phone": "22222222222",
+      "address": "aa",
+      "userId": 4,
+      "id": 9
+    }
+  ]
+}
